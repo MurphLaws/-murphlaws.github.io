@@ -1,0 +1,15 @@
+[submodule "digitalGarden/themes/themes/digitalgarden"]
+	path = digitalGarden/themes/themes/digitalgarden
+	url = https://github.com/apvarun/digital-garden-hugo-theme.git
+[submodule "digitalGarden/themes/digitalgarden"]
+	path = digitalGarden/themes/digitalgarden
+	url = https://github.com/apvarun/digital-garden-hugo-theme.git
+[submodule "journal/hugo-theme-console"]
+	path = journal/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "journal/themes/hugo-theme-console"]
+	path = journal/themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "murphlaws"]
+	path = digitalGarden/public
+	url = https://github.com/MurphLaws/murphlaws.github.io.git
